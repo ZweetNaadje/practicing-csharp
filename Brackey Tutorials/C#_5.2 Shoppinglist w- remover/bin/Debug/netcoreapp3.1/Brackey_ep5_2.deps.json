@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Brackey_ep5_2/1.0.0": {
+        "runtime": {
+          "Brackey_ep5_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brackey_ep5_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.exe
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.deps.json
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.runtimeconfig.json
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.dll
+C:\Users\bryan\OneDrive\Bureaublad\testc#\bin\Debug\netcoreapp3.1\testc#.pdb
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.dll
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.pdb
+C:\Users\bryan\OneDrive\Bureaublad\testc#\obj\Debug\netcoreapp3.1\testc#.genruntimeconfig.cache

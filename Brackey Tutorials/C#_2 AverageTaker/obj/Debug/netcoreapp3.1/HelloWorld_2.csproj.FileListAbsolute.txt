@@ -1,0 +1,26 @@
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.exe
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.deps.json
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.runtimeconfig.json
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.dll
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\bin\Debug\netcoreapp3.1\HelloWorld_2.pdb
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.dll
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.pdb
+C:\Users\bryan\OneDrive\Bureaublad\HelloWorld_2\obj\Debug\netcoreapp3.1\HelloWorld_2.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.exe
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.deps.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.runtimeconfig.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.dll
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\bin\Debug\netcoreapp3.1\HelloWorld_2.pdb
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.dll
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.pdb
+C:\Users\bryan\OneDrive\Bureaublad\Brackey ep3\obj\Debug\netcoreapp3.1\HelloWorld_2.genruntimeconfig.cache

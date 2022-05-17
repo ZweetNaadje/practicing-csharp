@@ -1,0 +1,13 @@
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.exe
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.deps.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.runtimeconfig.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.dll
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\bin\Debug\netcoreapp3.1\Brackey_6.1.pdb
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.dll
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.pdb
+C:\Users\bryan\OneDrive\Bureaublad\Brackey_6.1\obj\Debug\netcoreapp3.1\Brackey_6.1.genruntimeconfig.cache
